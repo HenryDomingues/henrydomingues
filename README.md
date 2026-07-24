@@ -1,1 +1,95 @@
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&pause=1000&color=6d8ce8&center=true&vCenter=true&random=false&width=524&lines=Bem+Vindo+ao+perfil!" alt="Typing SVG"> </a> </div> # <p align="center">Estudante de Desenvolvolvimento de sistemas pelo SENAI ITU ITALO BOLOGNA. # <img align="right" alt="" height="190px" src="./src/study.gif"> <p> <h3 align="left">Minhas experiencias. </h3> <div align="left"> <img align="center" alt="LUZ-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="LUZ-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> <img align="" alt="PHP" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> </p> # <div> <a href="https://instagram.com/hnr_dom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> # <div style="display: inline_block"><br> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" style="max-width:100%; width:600px; height:auto;" /> </picture>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Henry+Domingues!;Desenvolvedor+Full+Stack+em+evolu%C3%A7%C3%A3o;Criando+solu%C3%A7%C3%B5es+com+tecnologia" alt="Typing SVG" />
+</div>
+
+<h3 align="center">
+  Desenvolvedor de Sistemas | Laravel | PHP | Full Stack
+</h3>
+
+<p align="center">
+  <a href="https://github.com/HenryDomingues">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/hnr_domingues">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+## Sobre Mim
+
+<img align="right" height="180" src="./src/study.gif" alt="Animação de estudos">
+
+Olá! Meu nome é **Henry Domingues**, tenho 17 anos e sou estudante de **Desenvolvimento de Sistemas pelo SENAI Itu Ítalo Bologna**.
+
+Atualmente estou focado no desenvolvimento **Full Stack**, criando aplicações web utilizando boas práticas de programação, modelagem de banco de dados e frameworks modernos, além de explorar o universo de hardware e automação.
+
+**Áreas de interesse:**
+- Desenvolvimento Web (Front-end e Back-end)
+- Sistemas empresariais e arquitetura de software
+- Automação, Robótica e Inteligência Artificial
+- Eletrônica e Sistemas Embarcados
+
+---
+
+## Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+## Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Destaques / Funcionalidades |
+| :--- | :--- | :--- | :--- |
+| [**Loja-do-Zeca**](https://github.com/HenryDomingues/Loja-do-Zeca) | Loja de materiais de construção feita em Laravel 12. | `Laravel 12` `PHP` `MySQL` `Blade` | Cadastro de produtos, categorias, upload de mídias e CRUD completo. |
+| [**auth-app**](https://github.com/HenryDomingues/auth-app) | Blog com CRUD completo de posts e categorias. | `Laravel 12` `PHP` `MySQL` `Blade` | Autenticação, gerenciamento de posts, upload de imagens e banco de dados MySQL. |
+| [**DS-Web**](https://github.com/HenryDomingues/DS-Web) | Primeiros sites e páginas estáticas desenvolvidos no SENAI. | `HTML5` `CSS3` | Estruturação web desenvolvida durante o 2º ano do curso de Desenvolvimento de Sistemas. |
+
+---
+
+## Atualmente Estudando
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Sistemas_Embarcados-0055DA?style=for-the-badge&logoColor=white" alt="Sistemas Embarcados" />
+  <img src="https://img.shields.io/badge/IoT_%26_Automa%C3%A7%C3%A3o-333333?style=for-the-badge" alt="IoT e Automação" />
+</div>
+
+---
+
+## Estatísticas GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenryDomingues&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryDomingues&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/HenryDomingues">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/hnr_domingues">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
