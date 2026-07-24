@@ -1,19 +1,11 @@
 <div align="center">
+  <!-- TEXTO ANIMADO -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Henry+Domingues!;Desenvolvedor+de+Sistemas;PHP+%7C+Laravel+%7C+IoT+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
   Desenvolvedor de Sistemas | Laravel | PHP | Hardware & Automação
 </h3>
-
-<p align="center">
-  <a href="https://github.com/HenryDomingues">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://instagram.com/hnr_domingues">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
 
 ---
 
@@ -25,11 +17,12 @@ Olá! Meu nome é **Henry Domingues**, tenho 17 anos e sou estudante de **Desenv
 
 Desenvolvo aplicações web focadas no ecossistema PHP/Laravel e exploro soluções em robótica, eletrônica e automação com Arduino.
 
-**Áreas de interesse:**
-- Desenvolvimento Web Back-end & Front-end
-- Arquitetura de Software e Banco de Dados
-- Automação, Robótica e Eletrônica
-- Internet das Coisas (IoT) e Sistemas Embarcados
+- **Idiomas:** Português (Nativo) | Inglês (Intermediário)
+- **Áreas de interesse:**
+  - Desenvolvimento Web Back-end & Front-end
+  - Arquitetura de Software e Banco de Dados
+  - Automação, Robótica e Eletrônica
+  - Internet das Coisas (IoT) e Sistemas Embarcados
 
 ---
 
@@ -49,13 +42,15 @@ Desenvolvo aplicações web focadas no ecossistema PHP/Laravel e exploro soluç�
 
 ---
 
-## Projetos em Destaque
+## Idiomas
 
-| Projeto | Descrição | Tecnologias Principais |
-| :--- | :--- | :--- |
-| [**Loja-do-Zeca**](https://github.com/HenryDomingues/Loja-do-Zeca) | Loja de materiais de construção feita em Laravel 12 com CRUD completo, categorias e upload de mídias. | `Blade 62.1%` `PHP 37.5%` `Laravel 12` `MySQL` |
-| [**auth-app**](https://github.com/HenryDomingues/auth-app) | Blog em Laravel 12 com CRUD completo de posts, categorias, upload de imagens e autenticação. | `Blade 61.9%` `PHP 37.7%` `Laravel 12` `MySQL` |
-| [**DS-Web**](https://github.com/HenryDomingues/DS-Web) | Primeiros sites e páginas estáticas/dinâmicas desenvolvidos no 2º ano do SENAI. | `HTML 40.6%` `JS 24.6%` `PHP 18.5%` `CSS 16.3%` |
+<div align="center">
+  <img src="https://img.shields.io/badge/Portugu%C3%Aas-Nativo-green?style=for-the-badge" alt="Português Nativo" />
+  <img src="https://img.shields.io/badge/Ingl%C3%Aas-Intermedi%C3%A1rio-blue?style=for-the-badge" alt="Inglês Intermediário" />
+  <a href="https://pt.duolingo.com/profile/hnr_dom">
+    <img src="https://img.shields.io/badge/Duolingo-hnr__dom-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Perfil do Duolingo" />
+  </a>
+</div>
 
 ---
 
@@ -74,17 +69,18 @@ Desenvolvo aplicações web focadas no ecossistema PHP/Laravel e exploro soluç�
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenryDomingues&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryDomingues&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://github.com/HenryDomingues">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HenryDomingues&layout=donut-vertical&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a" alt="Linguagens Mais Utilizadas">
+  </a>
+  <br><br>
+  <a href="https://github.com/HenryDomingues">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=HenryDomingues&show_icons=true&theme=tokyonight&bg_color=151515&text_color=ffffff&title_color=ff79c6&border_color=5a2e8a" alt="Estatísticas do GitHub">
+  </a>
 </div>
 
 ---
+
+## Onde me encontrar
 
 <div align="center">
   <a href="https://github.com/HenryDomingues">
@@ -92,5 +88,8 @@ Desenvolvo aplicações web focadas no ecossistema PHP/Laravel e exploro soluç�
   </a>
   <a href="https://instagram.com/hnr_domingues">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://pt.duolingo.com/profile/hnr_dom">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
   </a>
 </div>
