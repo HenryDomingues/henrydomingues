@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Henry+Domingues!;Desenvolvedor+Full+Stack+em+evolu%C3%A7%C3%A3o;Criando+solu%C3%A7%C3%B5es+com+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Henry+Domingues!;Desenvolvedor+de+Sistemas;PHP+%7C+Laravel+%7C+IoT+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
-  Desenvolvedor de Sistemas | Laravel | PHP | Full Stack
+  Desenvolvedor de Sistemas | Laravel | PHP | Hardware & Automação
 </h3>
 
 <p align="center">
@@ -23,13 +23,13 @@
 
 Olá! Meu nome é **Henry Domingues**, tenho 17 anos e sou estudante de **Desenvolvimento de Sistemas pelo SENAI Itu Ítalo Bologna**.
 
-Atualmente estou focado no desenvolvimento **Full Stack**, criando aplicações web utilizando boas práticas de programação, modelagem de banco de dados e frameworks modernos, além de explorar o universo de hardware e automação.
+Desenvolvo aplicações web focadas no ecossistema PHP/Laravel e exploro soluções em robótica, eletrônica e automação com Arduino.
 
 **Áreas de interesse:**
-- Desenvolvimento Web (Front-end e Back-end)
-- Sistemas empresariais e arquitetura de software
-- Automação, Robótica e Inteligência Artificial
-- Eletrônica e Sistemas Embarcados
+- Desenvolvimento Web Back-end & Front-end
+- Arquitetura de Software e Banco de Dados
+- Automação, Robótica e Eletrônica
+- Internet das Coisas (IoT) e Sistemas Embarcados
 
 ---
 
@@ -42,7 +42,8 @@ Atualmente estou focado no desenvolvimento **Full Stack**, criando aplicações 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -50,11 +51,11 @@ Atualmente estou focado no desenvolvimento **Full Stack**, criando aplicações 
 
 ## Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias | Destaques / Funcionalidades |
-| :--- | :--- | :--- | :--- |
-| [**Loja-do-Zeca**](https://github.com/HenryDomingues/Loja-do-Zeca) | Loja de materiais de construção feita em Laravel 12. | `Laravel 12` `PHP` `MySQL` `Blade` | Cadastro de produtos, categorias, upload de mídias e CRUD completo. |
-| [**auth-app**](https://github.com/HenryDomingues/auth-app) | Blog com CRUD completo de posts e categorias. | `Laravel 12` `PHP` `MySQL` `Blade` | Autenticação, gerenciamento de posts, upload de imagens e banco de dados MySQL. |
-| [**DS-Web**](https://github.com/HenryDomingues/DS-Web) | Primeiros sites e páginas estáticas desenvolvidos no SENAI. | `HTML5` `CSS3` | Estruturação web desenvolvida durante o 2º ano do curso de Desenvolvimento de Sistemas. |
+| Projeto | Descrição | Tecnologias Principais |
+| :--- | :--- | :--- |
+| [**Loja-do-Zeca**](https://github.com/HenryDomingues/Loja-do-Zeca) | Loja de materiais de construção feita em Laravel 12 com CRUD completo, categorias e upload de mídias. | `Blade 62.1%` `PHP 37.5%` `Laravel 12` `MySQL` |
+| [**auth-app**](https://github.com/HenryDomingues/auth-app) | Blog em Laravel 12 com CRUD completo de posts, categorias, upload de imagens e autenticação. | `Blade 61.9%` `PHP 37.7%` `Laravel 12` `MySQL` |
+| [**DS-Web**](https://github.com/HenryDomingues/DS-Web) | Primeiros sites e páginas estáticas/dinâmicas desenvolvidos no 2º ano do SENAI. | `HTML 40.6%` `JS 24.6%` `PHP 18.5%` `CSS 16.3%` |
 
 ---
 
