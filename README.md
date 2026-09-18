@@ -13,7 +13,7 @@
 
 <img align="right" height="180" src="./src/study.gif" alt="Animação de estudos">
 
-Olá! Meu nome é **Henry Domingues**, tenho 17 anos e sou estudante de **Desenvolvimento de Sistemas pelo SENAI Itu Ítalo Bologna**.
+Olá! Meu nome é **Henry Domingues**, tenho 18 anos e sou estudante de **Desenvolvimento de Sistemas pelo SENAI Itu Ítalo Bologna**.
 
 Desenvolvo aplicações web focadas no ecossistema PHP/Laravel e exploro soluções em robótica, eletrônica e automação com Arduino.
 
